@@ -2,7 +2,7 @@
   "name": "7tv-userscript",
   "private": true,
   "homepage": "https://gigachad-dev.github.io/7tv-userscript/",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "author": "crashmax <userscript@crashmax.ru>",
   "license": "MIT",
