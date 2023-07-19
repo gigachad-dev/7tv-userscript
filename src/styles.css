@@ -1,0 +1,7 @@
+.emote-card > a .img-wrapper video {
+  margin-top: 1em;
+  min-width: 5em;
+  max-width: 55%;
+  object-fit: contain;
+  pointer-events: none;
+}
