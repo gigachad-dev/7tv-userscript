@@ -6,7 +6,7 @@ export default defineConfig((config) => {
   return {
     plugins: [
       Userscript({
-        fileName: 'vite-userscript-template',
+        fileName: '7tv-userscript',
         entry: 'src/index.ts',
         header: {
           name,
